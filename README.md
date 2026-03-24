@@ -51,10 +51,11 @@ To run a local copy of this project on your machine:
    npm run dev
    ```
 
+
 5. **View the site:** Open your browser and navigate to `http://localhost:5173/`
 
 ---
-![Portfolio](https://github.com/user-attachments/assets/ffff80ab-5873-49df-ae8d-6a5a8c68262a)
+<img width="1193" height="628" alt="Screenshot 2026-03-25 at 12 17 58 AM" src="https://github.com/user-attachments/assets/53fd09fd-ad6a-4950-8ead-19ae5a4f90b6" />
 
 ## 📄 Credits
 Styling, layout logic, and the core 3D scene architecture were originally inspired by elements from open-source portfolios (Credit: Moncy Yohannan). The site has since been entirely customized to represent my profile, data analysis projects, and career timeline.
