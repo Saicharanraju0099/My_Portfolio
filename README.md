@@ -54,6 +54,8 @@ To run a local copy of this project on your machine:
 5. **View the site:** Open your browser and navigate to `http://localhost:5173/`
 
 ---
+![Portfolio](https://github.com/user-attachments/assets/ffff80ab-5873-49df-ae8d-6a5a8c68262a)
 
 ## 📄 Credits
 Styling, layout logic, and the core 3D scene architecture were originally inspired by elements from open-source portfolios (Credit: Moncy Yohannan). The site has since been entirely customized to represent my profile, data analysis projects, and career timeline.
+
