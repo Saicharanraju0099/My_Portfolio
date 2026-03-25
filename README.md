@@ -3,7 +3,8 @@
 Welcome to the repository for my personal portfolio website! I am a Data Analyst passionate about uncovering insights from data and creating impactful dashboards. This website showcases my skills, experience, and the data projects I have worked on.
 
 ## 🔗 Live Site
-> _Add your live Vercel/Netlify link here once deployed!_
+- **Vercel Deploy**: [saicharan-portfolio-wheat.vercel.app](https://saicharan-portfolio-wheat.vercel.app/)
+- **Netlify Deploy**: [ornate-hotteok-ea574e.netlify.app](https://ornate-hotteok-ea574e.netlify.app/)
 
 ---
 
@@ -60,3 +61,9 @@ To run a local copy of this project on your machine:
 ## 📄 Credits
 Styling, layout logic, and the core 3D scene architecture were originally inspired by elements from open-source portfolios (Credit: Moncy Yohannan). The site has since been entirely customized to represent my profile, data analysis projects, and career timeline.
 
+---
+
+## 🛠️ Recent Improvements
+- **Optimized Deployment Config**: Both Vercel and Netlify have been auto-configured for instantaneous builds.
+- **GSAP Premium Access**: Removed deprecated `gsap-trial` references and transitioned to the standard, recently-made-free core `gsap` package, resolving the trial watermark warnings.
+- **Vite Chunking**: Configured Rollup manual chunks in `vite.config.ts` to separate large libraries (like ThreeJS/R3F and GSAP) into dedicated files, drastically reducing the main bundle size and improving parsing speed.
